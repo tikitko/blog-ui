@@ -5,6 +5,9 @@
 
 img {
     background-color:#868e96;
+    background-position: center;
+    background-size: cover;
+    background-image: var(--image-url);
 }
 
 .card {
