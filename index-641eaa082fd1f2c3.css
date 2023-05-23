@@ -3,6 +3,10 @@
     --bs-border-radius: 5px;
 }
 
+img {
+    background-color:#868e96;
+}
+
 .card {
     --bs-card-spacer-y: 12px !important;
     --bs-card-spacer-x: 12px !important;
@@ -43,6 +47,7 @@
 
 .header .item {
     height: 38px;
+    min-width: 38px;
 }
 
 .header.sticky-top {
