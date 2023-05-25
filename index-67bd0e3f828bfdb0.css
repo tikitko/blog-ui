@@ -53,8 +53,8 @@ img {
     min-width: 38px;
 }
 
-.header.sticky-top {
-    z-index: 1021;
+.body {
+    top: var(--header-height);
 }
 
 .menu {
