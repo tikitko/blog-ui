@@ -3,7 +3,7 @@
     --bs-border-radius: 5px;
 }
 
-img {
+img, .img {
     background-color:#868e96;
     background-position: center;
     background-size: cover;
