@@ -3,13 +3,6 @@
     --bs-border-radius: 5px;
 }
 
-img, .img {
-    background-color:#868e96;
-    background-position: center;
-    background-size: cover;
-    background-image: var(--image-url);
-}
-
 .card {
     --bs-card-spacer-y: 12px !important;
     --bs-card-spacer-x: 12px !important;
@@ -71,4 +64,11 @@ img, .img {
         top: var(--header-height);
         height: calc(100vh - var(--header-height));
     }
+}
+
+.img-block {
+    background-color:#868e96;
+    background-position: center;
+    background-size: cover;
+    background-image: var(--image-url);
 }
