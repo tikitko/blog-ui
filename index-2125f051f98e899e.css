@@ -37,6 +37,10 @@
     --bs-border-color: #dee2e6;
 }
 
+.placeholder {
+    cursor: auto;
+}
+
 .header {
     height: var(--header-height);
 }
